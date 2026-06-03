@@ -1,0 +1,6 @@
+{
+  "name": "Auto Parts Portal - Phase 1",
+  "description": "Minimal structure for auto parts and technical info app.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

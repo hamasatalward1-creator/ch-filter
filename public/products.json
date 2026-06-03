@@ -1,0 +1,275 @@
+[
+  {
+    "id": "1",
+    "partNumber": "90915-YZZD1",
+    "categoryId": "maintenance",
+    "buyUrl": "https://example.com/buy",
+    "imageUrl": "",
+    "name": {
+      "ar": "فلتر زيت محرك اصلي", "en": "Original Engine Oil Filter", "ur": "اصل انجن آئل فلٹر", "hi": "मूल इंजन ऑयल फ़िल्टर", "bn": "আসল ইঞ্জিন তেল ফিল্টার"
+    },
+    "description": {
+      "ar": "فلتر زيت أصلي يضمن أقصى درجات النقاء للزيت.", "en": "Original oil filter ensuring maximum oil purity.", "ur": "اصل تیل فلٹر جو زیادہ سے زیادہ خالصگی کو یقینی بناتا ہے۔", "hi": "मूल तेल फ़िल्टर तेल की अधिकतम शुद्धता सुनिश्चित करता है।", "bn": "আসল তেল ফিল্টার সর্বোচ্চ তেলের বিশুদ্ধতা নিশ্চিত করে।"
+    }
+  },
+  {
+    "id": "2",
+    "partNumber": "TOOL-102",
+    "categoryId": "tools",
+    "buyUrl": "https://example.com/buy",
+    "name": {
+      "ar": "مجموعة مفاتيح صيانة شاملة", "en": "Maintenance Wrench Set", "ur": "جامع بحالی رینچ سیٹ", "hi": "व्यापक रखरखाव रिंच सेट", "bn": "রক্ষণাবেক্ষণ রেঞ্চ সেট"
+    },
+    "description": {
+      "ar": "طقم أدوات متكامل عالي الجودة للسيارات.", "en": "High-quality integrated tool set for cars.", "ur": "گاڑیوں کے لیے اعلیٰ معیار کا ٹول سیٹ۔", "hi": "कारों के लिए उच्च गुणवत्ता वाला उपकरण सेट।", "bn": "গাড়ির জন্য উচ্চ মানের ইন্টিগ্রেটেড টুল সেট।"
+    }
+  },
+  {
+    "id": "3",
+    "partNumber": "ACC-552",
+    "categoryId": "accessories",
+    "buyUrl": "https://example.com/buy",
+    "name": {
+      "ar": "غطاء مقاعد مبطن ومريح", "en": "Comfortable Padded Seat Cover", "ur": "آرام دہ پیڈ والی سیٹ کور", "hi": "आरामदायक गद्देदार सीट कवर", "bn": "আরামদায়ক আসন কভার"
+    },
+    "description": {
+      "ar": "غطاء حماية للمقاعد يضيف لمسة من الأناقة.", "en": "Seat protection cover that adds elegance.", "ur": "نشست کے تحفظ کا کور جو خوبصورتی میں اضافہ کرتا ہے۔", "hi": "सीट सुरक्षा कवर जो लालित्य जोड़ता है।", "bn": "আসন সুরক্ষা কভার ক্ষতি থেকে মূল আসন রক্ষা করে।"
+    }
+  },
+  {
+    "id": "4",
+    "partNumber": "EMR-991",
+    "categoryId": "emergency",
+    "buyUrl": "https://example.com/buy",
+    "name": {
+      "ar": "حقيبة إسعافات وطوارئ", "en": "Emergency First Aid Kit", "ur": "فرسٹ ایڈ کٹ ایمرجنسی بیگ", "hi": "आपातकालीन किट", "bn": "পেশাদার জরুরী কিট"
+    },
+    "description": {
+      "ar": "حقيبة مجهزة بالكامل للتعامل مع الحالات الطارئة.", "en": "Fully equipped bag to handle emergencies on the road.", "ur": "ہنگامی حالات سے نمٹنے کے لیے مکمل لیس بیگ۔", "hi": "आपात स्थिति को संभालने के लिए सुसज्जित बैग।", "bn": "জরুরী অবস্থা মোকাবেলার জন্য সম্পূর্ণ সজ্জিত बैग।"
+    }
+  },
+  {
+    "id": "5",
+    "partNumber": "ORG-002",
+    "categoryId": "organic",
+    "buyUrl": "https://example.com/buy",
+    "name": {
+      "ar": "معطر سيارة طبيعي", "en": "Natural Car Air Freshener", "ur": "کار ایئر فریشنر", "hi": "प्राकृतिक कार एयर फ्रेशनर", "bn": "প্রাকৃতিক এয়ার ফ্রেশনার"
+    },
+    "description": {
+      "ar": "معطر جو طبيعي وعضوي 100%.", "en": "100% natural and organic air freshener.", "ur": "قدرتی اور نامیاتی ایئر فریشنر۔", "hi": "100% प्राकृतिक एयर फ्रेशनर।", "bn": "প্রাকৃতিক এবং জৈব এয়ার ফ্রেশনার।"
+    }
+  },
+  {
+    "id": "6",
+    "partNumber": "13568-YZZ14",
+    "categoryId": "maintenance",
+    "buyUrl": "https://example.com/buy",
+    "name": {
+      "ar": "سير تايمن (مزامنة)", "en": "Timing Belt", "ur": "ٹائمنگ بیلٹ", "hi": "टाइमिंग बेल्ट", "bn": "টাইমিং বেল্ট"
+    },
+    "description": {
+      "ar": "حزام توقيت عالي المتانة ومقاوم للحرارة.", "en": "Highly durable timing belt resistant to heat.", "ur": "حرارت اور ٹوٹ پھوٹ سے مزاحم ٹائمنگ بیلٹ۔", "hi": "अत्यधिक टिकाऊ टाइमिंग बेल्ट।", "bn": "অত্যন্ত টেকসই টাইমিং বেল্ট।"
+    }
+  },
+  {
+    "id": "7",
+    "partNumber": "TOOL-X1",
+    "categoryId": "tools",
+    "buyUrl": "https://example.com",
+    "name": {
+      "ar": "مفك براغي كهربائي", "en": "Electric Screwdriver", "ur": "الیکٹرک سکرو ڈرایور", "hi": "इलेक्ट्रिक पेचकश", "bn": "বৈদ্যুতিক স্ক্রু ড্রাইভার"
+    },
+    "description": {
+      "ar": "مفك متطور مع رؤوس متعددة.", "en": "Advanced screwdriver with multiple heads.", "ur": "متعدد سروں کے ساتھ سکرو ڈرایور۔", "hi": "कई सिर के साथ उन्नत पेचकश।", "bn": "একাধিক মাথা সহ উন্নত স্ক্রু ড্রাইভার।"
+    }
+  },
+  {
+    "id": "8",
+    "partNumber": "TOOL-X2",
+    "categoryId": "tools",
+    "buyUrl": "https://example.com",
+    "name": {
+      "ar": "مضخة هواء ذكية", "en": "Smart Air Pump", "ur": "سمارٹ ایئر پمپ", "hi": "स्मार्ट एयर पम्प", "bn": "স্মার্ট এয়ার পাম্প"
+    },
+    "description": {
+      "ar": "مضخة سريعة لنفخ الإطارات.", "en": "Fast pump for tires.", "ur": "ٹائر پھلانے کے لیے تیز پمپ۔", "hi": "टायर के लिए तेज़ पंप।", "bn": "টায়ারের জন্য দ্রুত পাম্প।"
+    }
+  },
+  {
+    "id": "9",
+    "partNumber": "ACC-L1",
+    "categoryId": "accessories",
+    "buyUrl": "https://example.com",
+    "name": {
+      "ar": "إضاءة LED داخلية", "en": "Interior LED Lights", "ur": "داخلہ ایل ای ڈی لائٹس", "hi": "आंतरिक एलईडी रोशनी", "bn": "অভ্যন্তরীণ এলইডি লাইট"
+    },
+    "description": {
+      "ar": "إضاءة متعددة الألوان.", "en": "Multi-color lighting.", "ur": "کثیر رنگ کی روشنی۔", "hi": "मल्टी-कलर लाइटिंग।", "bn": "মাল্টি কালার আলো।"
+    }
+  },
+  {
+    "id": "10",
+    "partNumber": "ACC-L2",
+    "categoryId": "accessories",
+    "buyUrl": "https://example.com",
+    "name": {
+      "ar": "حامل هاتف مغناطيسي", "en": "Magnetic Phone Mount", "ur": "مقناطیسی فون ماؤنٹ", "hi": "चुंबकीय फोन माउंट", "bn": "চৌম্বকীয় ফোন মাউন্ট"
+    },
+    "description": {
+      "ar": "حامل قوي وآمن للهواتف المحمولة.", "en": "Strong and secure mount for mobile phones.", "ur": "موبائل فون کے لیے مضبوط ماؤنٹ۔", "hi": "मोबाइल फोन के लिए मजबूत माउंट।", "bn": "মোবাইল ফোনের জন্য শক্তিশালী মাউন্ট।"
+    }
+  },
+  {
+    "id": "11",
+    "partNumber": "EMR-01",
+    "categoryId": "emergency",
+    "buyUrl": "https://example.com",
+    "name": {
+      "ar": "كابل اشتراك بطارية", "en": "Jumper Cables", "ur": "جمپر کیبلز", "hi": "जम्पर केबल", "bn": "জাম্পার কেবলস"
+    },
+    "description": {
+      "ar": "كابل طويل شديد التحمل للطوارئ.", "en": "Heavy duty long cable for emergencies.", "ur": "ہنگامی حالات کے لیے بھاری ڈیوٹی تار۔", "hi": "आपात स्थिति के लिए भारी कर्तव्य केबल।", "bn": "জরুরী অবস্থার জন্য ভারী শুল্ক তারের।"
+    }
+  },
+  {
+    "id": "12",
+    "partNumber": "EMR-02",
+    "categoryId": "emergency",
+    "buyUrl": "https://example.com",
+    "name": {
+      "ar": "مثلث تحذير عاكس", "en": "Warning Triangle", "ur": "انتباہی مثلث", "hi": "चेतावनी त्रिकोण", "bn": "সতর্কতা ত্রিভুজ"
+    },
+    "description": {
+      "ar": "أداة أساسية للسلامة على الطريق.", "en": "Essential tool for road safety.", "ur": "سڑک کی حفاظت کے لیے ضروری ٹول۔", "hi": "सड़क सुरक्षा के लिए आवश्यक उपकरण।", "bn": "রাস্তার নিরাপত্তার জন্য প্রয়োজনীয় সরঞ্জাম।"
+    }
+  },
+  {
+    "id": "13",
+    "partNumber": "ORG-C1",
+    "categoryId": "organic",
+    "buyUrl": "https://example.com",
+    "name": {
+      "ar": "منظف زجاج عضوي", "en": "Organic Glass Cleaner", "ur": "آرگینک گلاس کلینر", "hi": "ऑर्गेनिक ग्लास क्लीनर", "bn": "জৈব গ্লাস ক্লিনার"
+    },
+    "description": {
+      "ar": "بدون مواد كيميائية مضرة.", "en": "No harmful chemicals.", "ur": "کوئی نقصان دہ کیمیکل نہیں۔", "hi": "कोई हानिकारक रसायन नहीं।", "bn": "কোন ক্ষতিকারক রাসায়নিক নেই।"
+    }
+  },
+  {
+    "id": "14",
+    "partNumber": "ORG-C2",
+    "categoryId": "organic",
+    "buyUrl": "https://example.com",
+    "name": {
+      "ar": "شامبو غسيل طبيعي", "en": "Natural Car Shampoo", "ur": "قدرتی کار شیمپو", "hi": "नेचुरल कार शैम्पू", "bn": "প্রাকৃতিক গাড়ির শ্যাম্পু"
+    },
+    "description": {
+      "ar": "آمن على الطلاء ويعطيه لمعان ممتاز.", "en": "Safe on paint and gives excellent shine.", "ur": "روغن کے لیے محفوظ اور چمک دیتا ہے۔", "hi": "पेंट पर सुरक्षित और चमक देता है।", "bn": "পেইন্টে নিরাপদ এবং চকচকে দেয়।"
+    }
+  },
+  {
+    "id": "15",
+    "partNumber": "MNT-B1",
+    "categoryId": "maintenance",
+    "buyUrl": "https://example.com",
+    "name": {
+      "ar": "بطارية سيارة 12V", "en": "12V Car Battery", "ur": "12V کار بیٹری", "hi": "12V कार बैटरी", "bn": "12V গাড়ির ব্যাটারি"
+    },
+    "description": {
+      "ar": "عمر افتراضي طويل وقوة تشغيل عالية.", "en": "Long lifespan and high cranking power.", "ur": "طویل عمر اور طاقت۔", "hi": "लंबा जीवनकाल और क्रैंकिंग शक्ति।", "bn": "দীর্ঘ আয়ুষ্কাল এবং ক্র্যাঙ্কিং শক্তি।"
+    }
+  },
+  {
+    "id": "16",
+    "partNumber": "MNT-B2",
+    "categoryId": "maintenance",
+    "buyUrl": "https://example.com",
+    "name": {
+      "ar": "زيت فرامل DOT4", "en": "DOT4 Brake Fluid", "ur": "DOT4 بریک فلوئڈ", "hi": "DOT4 ब्रेक फ्लुइड", "bn": "DOT4 ব্রেক ফ্লুইড"
+    },
+    "description": {
+      "ar": "أداء فرملة ممتاز في ظروف الحرارة العالية.", "en": "Excellent braking performance in high heat.", "ur": "تیز حرارت میں بہترین بریکنگ۔", "hi": "उच्च गर्मी में उत्कृष्ट ब्रेकिंग।", "bn": "উচ্চ গরমে দুর্দান্ত ব্রেকিং পারফরম্যান্স।"
+    }
+  },
+  {
+    "id": "17",
+    "partNumber": "TOOL-X3",
+    "categoryId": "tools",
+    "buyUrl": "https://example.com",
+    "name": {
+      "ar": "رافعة هيدروليكية 2 طن", "en": "2-Ton Hydraulic Jack", "ur": "2 ٹن ہائیڈرولک جیک", "hi": "2-टन हाइड्रोलिक जैक", "bn": "2-টন জলবাহী জ্যাক"
+    },
+    "description": {
+      "ar": "سهلة الاستخدام والمناورة وحمل الأوزان.", "en": "Easy to use and maneuver, holds weights securely.", "ur": "استعمال میں آسان اور وزن اٹھانے کے لیے بہترین۔", "hi": "उपयोग करने में आसान और वजन धारण करता है।", "bn": "ব্যবহার করা সহজ এবং ওজন ধরে রাখে।"
+    }
+  },
+  {
+    "id": "18",
+    "partNumber": "ACC-544",
+    "categoryId": "accessories",
+    "buyUrl": "https://example.com",
+    "name": {
+      "ar": "غطاء جنوط رياضي مقاس 16", "en": "Sporty 16-Inch Wheel Covers", "ur": "سپورٹی وہیل کورز", "hi": "स्पोर्टी व्हील कवर", "bn": "স্পোর্টি হুইল কভার"
+    },
+    "description": {
+      "ar": "يضفي مظهراً رياضياً لسيارتك.", "en": "Adds a sporty look to your car.", "ur": "آپ کی گاڑی کو ایک سپورٹی لک دیتا ہے۔", "hi": "आपकी कार को एक स्पोर्टी लुक देता है।", "bn": "আপনার গাড়ীতে একটি স্পোর্টি চেহারা যোগ করে।"
+    }
+  },
+  {
+    "id": "19",
+    "partNumber": "TOY123",
+    "categoryId": "maintenance",
+    "buyUrl": "https://your-affiliate-link.com",
+    "name": {
+      "ar": "فلتر زيت تويوتا",
+      "en": "Toyota Oil Filter"
+    },
+    "description": {
+      "ar": "فلتر زيت أصلي لسيارات تويوتا",
+      "en": "Original Toyota oil filter"
+    }
+  },
+  {
+    "id": "20",
+    "partNumber": "NIS456",
+    "categoryId": "maintenance",
+    "buyUrl": "https://your-affiliate-link.com",
+    "name": {
+      "ar": "فلتر هواء نيسان",
+      "en": "Nissan Air Filter"
+    },
+    "description": {
+      "ar": "فلتر هواء لسيارات نيسان",
+      "en": "Air filter for Nissan cars"
+    }
+  },
+  {
+    "id": "21",
+    "partNumber": "OBD999",
+    "categoryId": "tools",
+    "buyUrl": "https://your-affiliate-link.com",
+    "name": {
+      "ar": "جهاز فحص OBD2",
+      "en": "OBD2 Diagnostic Scanner"
+    },
+    "description": {
+      "ar": "جهاز ذكي لفحص أعطال السيارة",
+      "en": "Smart tool for diagnosing car faults"
+    }
+  },
+  {
+    "id": "22",
+    "partNumber": "AIR111",
+    "categoryId": "tools",
+    "buyUrl": "https://your-affiliate-link.com",
+    "name": {
+      "ar": "منفاخ هواء محمول",
+      "en": "Portable Air Compressor"
+    },
+    "description": {
+      "ar": "منفاخ هواء سريع ومحمول للإطارات",
+      "en": "Fast portable air compressor for tires"
+    }
+  }
+]
